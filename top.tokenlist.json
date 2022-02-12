@@ -1,0 +1,16 @@
+{
+  "name": "TopList",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi"],
+  "timestamp": "2022-02-12T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xBbd900e05b4aF2124390D206F70bc4E583B1bE85",
+      "name": "MintySwap",
+      "symbol": "MINTYS",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/png/mintys.png"
+    },
+  ]
+}
