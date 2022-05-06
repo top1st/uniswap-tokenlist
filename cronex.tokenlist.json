@@ -25,9 +25,17 @@
             "name": "USD Coin",
             "chainId": 25,
             "symbol": "USDC",
-            "decimals": 18,
+            "decimals": 6,
             "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
             "logoURI": "https://cronoscan.com/token/images/usdcbttc_32.png"
+        },
+        {
+            "name": "Tether USD",
+            "chainId": 25,
+            "symbol": "USDT",
+            "decimals": 6,
+            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+            "logoURI": "https://cronoscan.com/token/images/tetherusdt_32.png"
         }
     ]
 }
