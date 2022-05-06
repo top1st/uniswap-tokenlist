@@ -1,0 +1,25 @@
+{
+    "name": "CRONEX Token List",
+    "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 0
+    },
+    "keywords": [
+        "cronex",
+        "tokens",
+        "trusted"
+    ],
+    "logoURI": "https://cronoscan.com/images/logo.svg",
+    "timestamp": "2021-03-23T14:15:22+0000",
+    "tokens": [
+        {
+            "name": "Wrapped CRO",
+            "chainId": 25,
+            "symbol": "WCRO",
+            "decimals": 18,
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "logoURI": "https://cronoscan.com/token/images/cryptocom_32.png"
+        }
+    ]
+}
