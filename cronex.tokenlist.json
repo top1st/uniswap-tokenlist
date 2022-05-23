@@ -52,6 +52,14 @@
             "decimals": 8,
             "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
             "logoURI": "https://cronoscan.com/token/images/weth_32.png"
+        },
+        {
+            "name": "CRONEX",
+            "chainId": 25,
+            "symbol": "CRONEX",
+            "decimals": 18,
+            "address": "0x5FB33B065Dc1D42192653FfD492235B9dA35Fe59",
+            "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/jpg/cronex.jpg"
         }
     ]
 }
