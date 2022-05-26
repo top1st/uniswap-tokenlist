@@ -57,7 +57,7 @@
             "name": "CRONEX",
             "chainId": 25,
             "symbol": "CRONEX",
-            "decimals": 18,
+            "decimals": 9,
             "address": "0xDB2Bb0A1481FCF0df33720d80A660dD4d060B6c0",
             "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/jpg/cronex.jpg"
         }
